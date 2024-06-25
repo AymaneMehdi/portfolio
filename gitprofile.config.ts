@@ -43,11 +43,6 @@ const CONFIG = {
             './public/Pato-Bootstrap-4-Restaurant-Website-Template-1.jpg',
           link: 'https://github.com/AymaneMehdi/Restaurant',
         },
-        {
-          title: 'lighten',
-          imageUrl: './public/lighten.png',
-          link: 'https://github.com/AymaneMehdi/lighten',
-        },
       ],
     },
   },
@@ -132,10 +127,6 @@ const CONFIG = {
     },
     {
       name: 'LinkedIn ',
-      body: 'Node.js Essential Training',
-    },
-    {
-      name: 'LinkedIn ',
       body: 'React.js Authentication',
     },
     {
@@ -188,14 +179,14 @@ const CONFIG = {
     displayAvatarRing: true,
 
     // Available themes. To remove any theme, exclude from here.
-    themes: ['dark', 'light'],
+    themes: ['procyon'],
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
+      primary: '#9696E1',
+      secondary: '#ffffff',
+      accent: '#ffffff',
+      neutral: '#fffffff',
+      'base-100': '#4F4F7F',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },

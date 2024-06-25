@@ -11,7 +11,7 @@ export default {
     logs: false,
     themes: [
       ...CONFIG.themeConfig.themes,
-      { procyon: CONFIG.themeConfig.customTheme },
+      { procyon: CONFIG.themeConfig.customTheme, background: '#ffffff' },
     ],
   },
 };
